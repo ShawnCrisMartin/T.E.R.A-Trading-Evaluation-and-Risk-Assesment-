@@ -1,2 +1,29 @@
-# T.E.R.A-Trading-Evaluation-and-Risk-Assesment-
-T.E.R.A is a Python-based project designed to analyze the performance and risk factors of stocks. By connecting to the Alpha Vantage API, it retrieves real-time stock data and calculates important financial metrics, including the mean daily return, volatility, value at risk (VaR), maximum drawdown, and the Sharpe ratio. 
+Fetches real-time stock data from Alpha Vantage API.
+
+Calculates key financial risk metrics:
+
+Mean Daily Return
+
+Volatility (Standard Deviation of Returns)
+
+Value at Risk (VaR)
+
+Maximum Drawdown
+
+Sharpe Ratio
+
+Provides suggestions (Buy or Sell) based on the calculated metrics.
+
+Visualizes stock price trends over time with an interactive chart.
+
+i used the alpha vintage api for the data, 
+
+and user termcolor and seaborn for styling of the cchart
+
+
+![image](https://github.com/user-attachments/assets/2f042417-72eb-4fe2-bc8a-7c9e94599184)
+
+![image](https://github.com/user-attachments/assets/95075e84-aeb6-4401-8f0d-9fd649e073d6)
+
+![image](https://github.com/user-attachments/assets/365a2f1d-66f5-45ea-9d0c-a9899c43918c)
+
