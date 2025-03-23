@@ -27,3 +27,8 @@ and user termcolor and seaborn for styling of the cchart
 
 ![image](https://github.com/user-attachments/assets/365a2f1d-66f5-45ea-9d0c-a9899c43918c)
 
+![image](https://github.com/user-attachments/assets/43433ec8-2faa-4bc2-ab32-482ccd7d2e5e)
+
+![image](https://github.com/user-attachments/assets/2e26592d-ae62-4db4-b055-f062bbd3efe9)
+
+
